@@ -33,9 +33,7 @@ Simple Paint App is a browser-based tool for creating digital drawings using HTM
 - 👇 **Touch Support**: Optimized for touch devices with large tap targets.
 - ♿ **Accessibility**: High-contrast design and keyboard-friendly focus states.
 
-## Demo
 
-(canvajs.vercel.app)
 
 
 
