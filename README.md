@@ -35,15 +35,10 @@ Simple Paint App is a browser-based tool for creating digital drawings using HTM
 
 ## Demo
 
-[Live Demo](#) *(Add your GitHub Pages or external hosting link here)*
+[Live Demo](canvajs.vercel.app)
 
-![Simple Paint App in Action](screenshots/demo.gif) *(Replace with actual GIF or screenshot)*
 
-## Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/simple-paint-app.git
-   cd simple-paint-app
+
 
    
