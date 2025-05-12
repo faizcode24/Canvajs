@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Paint App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Simple Paint App</h1>
+    <canvas id="canvas" width="800" height="600"></canvas>
+    <div id="status">Click and drag to draw circles</div>
+    <div class="controls">
+        <label for="colorPicker">Fill Color:</label>
+        <input type="color" id="colorPicker" value="#0000ff">
+        <label for="brushSize">Brush Size:</label>
+        <input type="range" id="brushSize" min="5" max="50" value="10">
+        <button id="undo">Undo</button>
+        <button id="reset">Reset Canvas</button>
+        <button id="save">Save as Image</button>
+        <input type="file" id="load" accept="image/*">
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
